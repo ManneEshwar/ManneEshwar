@@ -14,6 +14,4 @@
 - 🏆 Certificate of Merit (First Rank)
 
 These documents validate academic credentials and top performance at the university level.
-![COM](https://github.com/user-attachments/assets/fb1e63f3-f34c-4de5-a34d-ca01b4556b24)
-![ODC](https://github.com/user-attachments/assets/63320208-317e-4baa-bb46-71e7784dbcbd)
 
